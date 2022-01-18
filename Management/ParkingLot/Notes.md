@@ -9,8 +9,10 @@ Parking Lot, Vehicle, Parking spot
 #### Will the capacity considered? (The system should be able to show the available counts)
 #### How many parking spots such as Compact, Large, Handicapped, Motorcycle?
 #### How the pay will be? Hour-rate?
-#### 
-#### 
+### Use Case Diagram
+#### Actors
+##### Admin, Customer, Parking Attendant, System
+### Use cases for Parking Lot
 #### 
 #### 
 
