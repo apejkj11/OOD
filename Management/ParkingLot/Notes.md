@@ -11,7 +11,7 @@ Parking Lot, Vehicle, Parking spot
 #### How the pay will be? Hour-rate?
 ### Use Case Diagram
 #### Actors
-##### Admin, Customer, Parking Attendant, System
+Admin, Customer, Parking Attendant, System
 ### Use cases for Parking Lot
 #### 
 #### 
